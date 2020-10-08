@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = git@github.com:Bearzz2020/bearzz2020.github.io.git
+	branch = master
